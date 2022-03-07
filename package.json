@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakashpaliwal/e-commerce-materialUI-payment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aakashpaliwal/e-commerce-materialUI-payment/issues"
+  },
+  "homepage": "https://github.com/Aakashpaliwal/e-commerce-materialUI-payment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "stripe": "^8.207.0"
+  }
+}
